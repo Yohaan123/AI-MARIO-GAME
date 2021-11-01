@@ -6,7 +6,7 @@ var brickImages = [ 'blocks001.png', 'blocks002.png', 'blocks003.png'];
 var coinsImags = [ 'coin01.png', 'coin05.png' ];
 var pipeImages = [ 'tube.png' ];
 var platformImages = [ 'platform.png' ];
-var enemyMushroomImage = [ 'nemyMushroom01.png','enemyMushroom02.png'];
+var enemyMushroomImage = [ 'enemyMushroom01.png','enemyMushroom02.png'];
 
 var spriteNumber={
   mountain: 6,
